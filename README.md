@@ -26,4 +26,5 @@ The project showcases both UI and API automation with a CI-ready structure.
 
 ## How to Run Tests
 1. Clone the repository:
+   https://github.com/gauridighe/sdet-automation-framework.git
 
